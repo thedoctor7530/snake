@@ -1,0 +1,2 @@
+SELECT * FROM EmployeeDetails join SalesEmployee
+WHERE EmployeeDetails.employeeID = SalesEmployee.employeeID;
